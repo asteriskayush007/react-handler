@@ -1,6 +1,6 @@
 {
-  "name": "react-handler",
-  "version": "1.0.1",
+  "name": "csx-react-handle",
+  "version": "1.0.3",
   "description": "button and counter",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
